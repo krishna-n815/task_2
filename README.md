@@ -3,8 +3,8 @@
 
 📌 Objective:
 This SQL script creates and manages a simple Library database for storing and updating book information. It demonstrates various SQL operations including CREATE, INSERT, UPDATE, DELETE, and SELEC
-🗃 Table Created:
 
+🗃 Table Created:
 Library
 Column	Data Type	Description
 BookID	INTEGER	Primary Key
